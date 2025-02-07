@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bardan2
+#👋 Hi, I’m @Bardan2
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning MERN
 
